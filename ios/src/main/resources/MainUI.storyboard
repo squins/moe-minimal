@@ -40,6 +40,11 @@
                                     <action selector="BtnPressedCancel_helloButton:" destination="a0485d46-6a65-4ef1-8805-d1a43630211c" eventType="touchUpInside" id="3e96f4c5-6370-4604-8784-a60409c8d133"/>
                                 </connections>
                             </button>
+                            <view contentMode="scaleToFill" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="Tj4-Wp-g2g">
+                                <rect key="frame" x="10" y="322" width="294" height="218"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                            </view>
                         </subviews>
                         <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                         <constraints>
@@ -61,7 +66,7 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="fbc830ba-a42d-4da0-ab3b-e92a3e2a7322" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="181.33333333333334" y="395.70666666666665"/>
+            <point key="canvasLocation" x="180" y="395.07042253521126"/>
         </scene>
     </scenes>
 </document>
